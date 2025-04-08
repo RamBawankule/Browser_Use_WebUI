@@ -1,0 +1,10 @@
+browser-use==0.1.40
+pyperclip==1.9.0
+streamlit==1.32.0
+json-repair
+langchain-mistralai==0.2.4
+langchain-google-genai==2.0.8
+MainContentExtractor==0.0.4
+langchain-anthropic
+langchain-openai
+langchain-ollama
