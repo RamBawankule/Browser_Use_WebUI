@@ -240,5 +240,3 @@ This project is licensed under the terms specified in the repository.
 ## Acknowledgements
 
 - [browser-use](https://github.com/browser-use/browser-use) for the core functionality
-- [WarmShao](https://github.com/warmshao) for significant contributions to the project
-- All contributors who have helped improve this tool
